@@ -23,7 +23,7 @@ git clone https://github.com/redoper1/FiveM-Point-finger
 ```
 start pointFinger
 ```
-- While cloning or downloading from GitHub your directory will be most like named as `pointFinger-master`
+- While cloning or downloading from GitHub your directory will be most like named as `FiveM-Point-finger-master`
 
 ### Usage
 - To point with your finger press **`B`** and look in desired direction
