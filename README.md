@@ -1,5 +1,5 @@
 # FiveM-Point-finger
-FiveM-Point-finger is a FiveM resource which adds ability to point with players finger.
+FiveM-Point-finger is a FiveM resource which adds the ability to point with the player's finger.
 
 ### Download & Installation
 #### Download
@@ -16,14 +16,14 @@ git clone https://github.com/redoper1/FiveM-Point-finger
 
 ##### Manually
 - Download https://github.com/redoper1/FiveM-Point-finger/archive/master.zip
-- Put it into desired directory in `resources` directory
+- Put it into the desired directory in `resources` directory
 
 #### Installation
 - Add this to the end of your `server.cfg` "`start resources`":
 ```
 start pointFinger
 ```
-- While cloning or downloading from GitHub your directory will be most like named as `FiveM-Point-finger-master`
+- While cloning or downloading from GitHub your directory will be most likely named as `FiveM-Point-finger-master`
 
 ### Usage
 - To point with your finger press **`B`** and look in desired direction
